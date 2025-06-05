@@ -1,0 +1,3 @@
+[submodule "rentcar"]
+	path = rentcar
+	url = https://github.com/Madara353502/rentcar_project.git
